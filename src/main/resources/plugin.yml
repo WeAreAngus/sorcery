@@ -1,0 +1,6 @@
+name: Sorcery
+version: ${project.version}
+main: software.angus.sorcery.Sorcery
+api-version: 1.16
+authors: [Flamezy]
+description: This is my sorcery plugin
